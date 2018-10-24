@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeworksNew</string>
+    <string name="search">search</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="editName">Edit name</string>
+    <string name="EditAge">Edit age</string>
+    <string name="saveDelete">Save or delete</string>
+</resources>
